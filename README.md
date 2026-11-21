@@ -8,6 +8,7 @@ I've spent fifteen years leading enterprise identity: IAM strategy, governance a
 
 - **[The Identity Lab](https://www.jamalsjones.com/lab)**: a free, vendor-neutral skills framework for identity and access management, with tools to measure yourself and your team against it.
 - **[AI, Examined](https://ai.jamalsjones.com)**: two free programs. *Learn AI* is a course on how AI actually works, and the other prepares you for the IAPP's AI Governance Professional (AIGP) exam.
+- **[Security games](https://github.com/jamalsjones/security-games)**: five small browser games about access control and identity, from spotting phishing to checking access tokens. [Play them](https://jamalsjones.github.io/security-games/).
 - **[Insights](https://www.jamalsjones.com/insights)**: essays on why identity is a business function, not just a security control.
 
 ## Selected work
