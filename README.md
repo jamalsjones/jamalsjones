@@ -11,6 +11,16 @@ I've spent fifteen years leading enterprise identity: IAM strategy, governance a
 - **[Security games](https://github.com/jamalsjones/security-games)**: five small browser games about access control and identity, from spotting phishing to checking access tokens. [Play them](https://jamalsjones.github.io/security-games/).
 - **[Insights](https://www.jamalsjones.com/insights)**: essays on why identity is a business function, not just a security control.
 
+## Open-source IAM tools
+
+Free to fork and run inside your own company. Each is one file with no dependencies that works as a browser page and a command-line tool. Your data stays on your machine.
+
+| Tool | What it does |
+|---|---|
+| [Leaver check](https://github.com/jamalsjones/leaver-check) | Compares an HR export with an app's user list to find active accounts for leavers, accounts that match no one and unused accounts, then writes an access-review sheet. Also a Claude skill. [Try it](https://jamalsjones.github.io/leaver-check/) |
+| [JWT lint](https://github.com/jamalsjones/jwt-lint) | Checks an access token against RFC 7519, 8725 and 9068 and cites the section for each finding. [Try it](https://jamalsjones.github.io/jwt-lint/) |
+| [OIDC config check](https://github.com/jamalsjones/oidc-config-check) | Reviews what your identity provider advertises: implicit flow, PKCE, signing algorithms, client authentication. [Try it](https://jamalsjones.github.io/oidc-config-check/) |
+
 ## Selected work
 
 | Project | What it does |
