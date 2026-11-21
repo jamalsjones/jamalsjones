@@ -19,6 +19,7 @@ Free to fork and run inside your own company. Each is one file with no dependenc
 |---|---|
 | [Leaver check](https://github.com/jamalsjones/leaver-check) | Compares an HR export with an app's user list to find active accounts for leavers, accounts that match no one and unused accounts, then writes an access-review sheet. Also a Claude skill. [Try it](https://jamalsjones.github.io/leaver-check/) |
 | [JWT lint](https://github.com/jamalsjones/jwt-lint) | Checks an access token against RFC 7519, 8725 and 9068 and cites the section for each finding. [Try it](https://jamalsjones.github.io/jwt-lint/) |
+| [SAML check](https://github.com/jamalsjones/saml-check) | Reviews a SAML response, AuthnRequest or metadata: why a sign-in failed, signature wrapping, expiring certificates. [Try it](https://jamalsjones.github.io/saml-check/) |
 | [OIDC config check](https://github.com/jamalsjones/oidc-config-check) | Reviews what your identity provider advertises: implicit flow, PKCE, signing algorithms, client authentication. [Try it](https://jamalsjones.github.io/oidc-config-check/) |
 
 ## Selected work
